@@ -27,15 +27,15 @@
 {{--Home navigation--}}
 <x-navigation />
 
-<form method="post" action="https://newup.sigmaitsoftwares.com/medieval/Vision_Mission.aspx" id="form1">
+<form method="post" action="https://newup.sigmaitsoftwares.com/medieval/Contact_Us.aspx" id="form1">
     <div class="aspNetHidden">
         <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE"
-               value="/wEPDwUKMTY1NDU2MTA1MmRkSSF4R45x5f/nA5STja2jrU6/yGThffqCjdtwqU/5pnQ="/>
+               value="/wEPDwUKMTY1NDU2MTA1MmRki+ER5kqLVK+R8h7TzJ9uxMvXThlJCoof2HzG5be2has="/>
     </div>
 
     <div class="aspNetHidden">
 
-        <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7F1906F0"/>
+        <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7BBEAE3A"/>
     </div>
 
     <div>
@@ -44,52 +44,231 @@
             <div class="r-container">
                 <div class="image-overlay"></div>
                 <div class="position-relative" style="z-index: 2;">
-                    <h1 class="font-1 fw-bold text-white">Vision & Mission</h1>
+                    <h1 class="font-1 fw-bold text-white">Contact Us</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item fw-bold"><a href="Default.html">Home</a></li>
                             <li class=" fw-bold text-white mx-1"><a>/ </a></li>
-                            <li class="breadcrumbitem fw-bold active"> Vision & Mission</li>
+                            <li class="breadcrumbitem fw-bold active"> Contact Us</li>
                         </ol>
                     </nav>
                 </div>
             </div>
         </section>
+
         <section class="section">
             <div class="r-container">
                 <div class="row row-cols-1 row-cols-lg-2">
-                    <div class="col mb-3 pe-lg-3 position-relative">
-                        <div class="overlay right"></div>
-                        <div class="position-relative pe-5 mega-hover">
-                            <img src="image/mission.jpg" alt="" class="img-fluid" style="z-index: -2;">
-                            <div class="position-absolute bottom-0 start-0 ms-4 mb-4">
+                    <div class="col-xl-6 col-lg-6 mb-3">
+                        <div class="d-flex flex-column gap-4 h-100 justify-content-center">
+                            <h6 class="font-2 accent-color">Contact Us</h6>
+                            <h3 class="font-1 lh-1 fw-bold fs-1">Reach Out with Any Questions or Concerns</h3>
+                            <div class="d-flex flex-column gap-5">
+                                <div class="d-flex flex-row gap-4 align-items-center">
+                                    <div class="bg-accent-color rounded-3 p-2 text-white" style="aspect-ratio: 1/1;">
+                                        <h4 class="lh-1 m-0 p-0 fw-bold font-1">
+                                            <i class="fa-solid fa-map-location-dot"></i>
+                                        </h4>
+                                    </div>
+                                    <div class="d-flex flex-column">
+                                        <h6 class="font-1 fw-bold lh-1 m-0 text-gray">
+                                            Delhi Office
+                                        </h6>
+                                        <span
+                                            class="fs-4 fw-bold font-1">F-7, Ground Flood , Sector -3 Delhi NCR.</span>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-row gap-4 align-items-center">
+                                    <div class="bg-accent-color rounded-3 p-2 text-white" style="aspect-ratio: 1/1;">
+                                        <h4 class="lh-1 m-0 p-0 fw-bold font-1">
+                                            <i class="fa-solid fa-map-location-dot"></i>
+                                        </h4>
+                                    </div>
+                                    <div class="d-flex flex-column">
+                                        <h6 class="font-1 fw-bold lh-1 m-0 text-gray">
+                                            Lucknow Office
+                                        </h6>
+                                        <span class="fs-4 fw-bold font-1">41/42 , Vineet Plaza, Vineet Khand 6 , Gomti Nagar , Lucknow (226010)- UP</span>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-row gap-4 align-items-center">
+                                    <div class="bg-accent-color rounded-3 p-2 text-white" style="aspect-ratio: 1/1;">
+                                        <h4 class="lh-1 m-0 p-0 fw-bold font-1">
+                                            <i class="fa-solid fa-map-location-dot"></i>
+                                        </h4>
+                                    </div>
+                                    <div class="d-flex flex-column">
+                                        <h6 class="font-1 fw-bold lh-1 m-0 text-gray">
+                                            Kolkata Office
+                                        </h6>
+                                        <span class="fs-4 fw-bold font-1">Coming Soon This Year</span>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-row gap-4 align-items-center">
+                                    <div class="bg-accent-color rounded-3 p-2 text-white" style="aspect-ratio: 1/1;">
+                                        <h4 class="lh-1 m-0 p-0 fw-bold font-1">
+                                            <i class="fa-solid fa-envelope"></i>
+                                        </h4>
+                                    </div>
+                                    <div class="d-flex flex-column">
+                                        <h6 class="font-1 fw-bold lh-1 m-0 text-gray">
+                                            Our Email
+                                        </h6>
+                                        <span class="fs-4 fw-bold font-1">medievalmedicalindia21@gmail.com</span>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-row gap-4 align-items-center">
+                                    <div class="bg-accent-color rounded-3 p-2 text-white" style="aspect-ratio: 1/1;">
+                                        <h4 class="lh-1 m-0 p-0 fw-bold font-1">
+                                            <i class="fa-solid fa-phone"></i>
+                                        </h4>
+                                    </div>
+                                    <div class="d-flex flex-column">
+                                        <h6 class="font-1 fw-bold lh-1 m-0 text-gray">
+                                            Our Number
+                                        </h6>
+                                        <span class="fs-4 fw-bold font-1"><a href="tel:6394342182"
+                                                                             class="text-dark fs-4 fw-bold font-1">+91-639 434 2182</a>, <a
+                                                href="tel:05224001543" class="text-dark fs-4 fw-bold font-1">+0522-4001543</a></span>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col mb-3">
-                        <div class="d-flex flex-column gap-3 p-3">
-                            <h3 class="text-black font-1 lh-1 fw-semibold">Vision
-                            </h3>
-                            <p><b>"Working together for a healthier world. "</b></p>
-                            <p class="text-gray">
-                                At Medieval Medical India, our vision is to continue driving innovation in the
-                                healthcare equipment industry while expanding our global partnerships. We are dedicated
-                                to enhancing healthcare standards across India and beyond, ensuring that our solutions
-                                meet the highest standards of quality and reliability
-                            </p>
-                        </div>
-                        <div class="d-flex flex-column gap-3 p-3">
-                            <h3 class="text-black font-1 lh-1 fw-semibold">Mission
-                            </h3>
-                            <p><b>"Redefining Healthcare through Innovation and Growth"</b></p>
-                            <p class="text-gray">
-                                We are committed to delivering cutting-edge solutions that meet the diverse needs of the
-                                healthcare sector, ensuring superior performance and reliability. Our mission drives us
-                                to continually expand our reach, advance our manufacturing capabilities, and offer
-                                exclusive products that improve patient care and contribute to a healthier future.
-                            </p>
+                    <div class="col-xl-6 col-lg-6  mb-3">
+                        <div class="bg-accent-color rounded-4">
+                            <div class="h-100 d-flex flex-column p-4">
+                                <h6 class="font-2 text-white">Fill The Form</h6>
+                                <h3 class="font-1 lh-1 fw-bold fs-1 mb-3 text-white">Get In Touch</h3>
+                                <div
+                                    class="success_msg toast align-items-center w-100 shadow-none mb-3 border border-success rounded-0 my-4"
+                                    role="alert" aria-live="assertive" aria-atomic="true">
+                                    <div class="d-flex p-2">
+                                        <div
+                                            class="toast-body f-18 d-flex flex-row gap-3 align-items-center text-success">
+                                            <i class="fa-solid fa-check f-36 text-success"></i>
+                                            Your Message Successfully Send.
+                                        </div>
+                                        <button type="button"
+                                                class="me-2 m-auto bg-transparent border-0 ps-1 pe-0 text-success"
+                                                data-bs-dismiss="toast" aria-label="Close"><i
+                                                class="fa-solid fa-xmark"></i></button>
+                                    </div>
+                                </div>
+                                <div
+                                    class="error_msg toast align-items-center w-100 shadow-none border-danger mb-3 my-4 border rounded-0"
+                                    role="alert" aria-live="assertive" aria-atomic="true">
+                                    <div class="d-flex p-2">
+                                        <div
+                                            class="toast-body f-18 d-flex flex-row gap-3 align-items-center text-danger">
+                                            <i class="fa-solid fa-triangle-exclamation f-36 text-danger"></i>
+                                            Something Wrong ! Send Form Failed.
+                                        </div>
+                                        <button type="button"
+                                                class="me-2 m-auto bg-transparent border-0 ps-1 pe-0 text-danger"
+                                                data-bs-dismiss="toast" aria-label="Close"><i
+                                                class="fa-solid fa-xmark"></i></button>
+                                    </div>
+                                </div>
+
+                                <div class="mb-3">
+                                    <input type="text" class="form-control py-2 px-4" name="name" id="name"
+                                           placeholder="Name" required="">
+                                    <div class="invalid-feedback">
+                                        The field is required.
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <input type="text" class="form-control py-2 px-4" name="number" id="number"
+                                           placeholder="Phone Number" required="">
+                                    <div class="invalid-feedback">
+                                        The field is required.
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <input type="email" class="form-control py-2 px-4" name="email" id="email"
+                                           placeholder="Email" required="">
+                                    <div class="invalid-feedback">
+                                        The field is required.
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <input type="email" class="form-control py-2 px-4" name="City" id="City"
+                                           placeholder="City" required="">
+                                    <div class="invalid-feedback">
+                                        The field is required.
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <input type="text" class="form-control py-2 px-4" name="Product" id="Product"
+                                           placeholder="Enter Product Name" required="">
+                                    <div class="invalid-feedback">
+                                        The field is required.
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <textarea class="form-control py-2 px-4" id="message" name="message" rows="5"
+                                              placeholder="Message"></textarea>
+                                </div>
+                                <div class="">
+                                    <button type="submit" class="btn submit_form py-2">
+                                        Submit Now
+                                    </button>
+                                </div>
+
+                            </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </section>
+        <section class="section bg-light">
+            <div class="r-container">
+                <div class="d-flex flex-column gap-3 justify-content-center text-center">
+                    <h6 class="accent-color font-2 ">Address</h6>
+                    <h3 class="text-black font-1 lh-1 fw-semibold">Office Address</h3>
+                    <div class="row row-cols-1 row-cols-lg-3">
+                        <div class="col-xl-4 col-lg-6 col-md-6 mt-2 ">
+                            <div class=" p-0 with-border-bottom border-0 shadow rounded-3 mega-hover">
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7119.039907537849!2d81.00278977904783!3d26.855216738811198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399be2e8fdf6e7eb%3A0xd55d655165fc710!2sVineet%20Khand%206%2C%20Gomti%20Nagar%2C%20Lucknow%2C%20Uttar%20Pradesh%20226010!5e0!3m2!1sen!2sin!4v1728305966766!5m2!1sen!2sin"
+                                    width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"
+                                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <div class="cardbody ">
+                                    <h5 class="font-1 fw-bold">Lucknow Office</h5>
+                                    <p>41/42 , Vineet Plaza, Vineet Khand 6 , Gomti Nagar , Lucknow (226010)- UP</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 mt-2 ">
+                            <div class=" p-0  with-border-bottom border-0 shadow rounded-3 mega-hover">
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d448196.52629668376!2d76.76357783356833!3d28.643684634738104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x37205b715389640!2sDelhi!5e0!3m2!1sen!2sin!4v1728306002631!5m2!1sen!2sin"
+                                    width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"
+                                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <div class="cardbody ">
+                                    <h5 class="font-1 fw-bold">Delhi Office</h5>
+                                    <p>F-7, Ground Flood , Sector -3 Delhi NCR.</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 mt-2 ">
+                            <div class="  p-0 with-border-bottom border-0 shadow rounded-3 mega-hover">
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117925.21697171232!2d88.26477893877995!3d22.535564849443194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f882db4908f667%3A0x43e330e68f6c2cbc!2sKolkata%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1728306030678!5m2!1sen!2sin"
+                                    width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"
+                                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <div class="cardbody ">
+                                    <h5 class="font-1 fw-bold">Kolkata Office</h5>
+                                    <p>Coming Soon This Year</p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </section>
@@ -134,16 +313,16 @@
                     <div class="d-flex flex-column mobfooter">
                         <h5 class="font-1 fw-bold mb-3">Quick Link</h5>
                         <div class="d-flex flex-column gap-2">
-                            <a href="Default.html" class="d-flex flex-row gap-2 align-items-center link-light">
+                            <a href="/" class="d-flex flex-row gap-2 align-items-center link-light">
                                 <i class="fa-solid fa-chevron-right accent-color"></i>Home
                             </a>
-                            <a href="About_Us.html" class="d-flex flex-row gap-2 align-items-center link-light">
+                            <a href="/about_us" class="d-flex flex-row gap-2 align-items-center link-light">
                                 <i class="fa-solid fa-chevron-right accent-color"></i>About Us
                             </a>
-                            <a href="Vision_Mission.html" class="d-flex flex-row gap-2 align-items-center link-light">
+                            <a href="/vision_mission" class="d-flex flex-row gap-2 align-items-center link-light">
                                 <i class="fa-solid fa-chevron-right accent-color"></i>Vision & Mission
                             </a>
-                            <a href="Our_Strengths.html" class="d-flex flex-row gap-2 align-items-center link-light">
+                            <a href="/our_strengths" class="d-flex flex-row gap-2 align-items-center link-light">
                                 <i class="fa-solid fa-chevron-right accent-color"></i>Our Strengths
                             </a>
                             <a href="#" class="d-flex flex-row gap-2 align-items-center link-light">
@@ -152,7 +331,7 @@
                             <a href="#" class="d-flex flex-row gap-2 align-items-center link-light">
                                 <i class="fa-solid fa-chevron-right accent-color"></i>Category
                             </a>
-                            <a href="Contact_Us.html" class="d-flex flex-row gap-2 align-items-center link-light">
+                            <a href="/contact_us" class="d-flex flex-row gap-2 align-items-center link-light">
                                 <i class="fa-solid fa-chevron-right accent-color"></i>Contact Us
                             </a>
                         </div>
@@ -492,5 +671,5 @@
 
 </body>
 
-<!-- Mirrored from newup.sigmaitsoftwares.com/medieval/Vision_Mission.aspx by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Nov 2024 17:01:37 GMT -->
+<!-- Mirrored from newup.sigmaitsoftwares.com/medieval/Contact_Us.aspx by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Nov 2024 17:02:47 GMT -->
 </html>

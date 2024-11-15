@@ -95,8 +95,8 @@ Route::get('/infusion_pump', function () {
     return view('infusion_pump');
 });
 
-Route::get('/aerosol_drug_delivery_system_nebulizer', function () {
-    return view('aerosol_drug_delivery_system_nebulizer');
+Route::get('/aerosol_drug_delivery_system-nebulizer', function () {
+    return view('aerosol_drug_delivery_system-nebulizer');
 });
 
 Route::get('/bronchoscopic_navigation_system', function () {
@@ -203,8 +203,8 @@ Route::get('/oncology_division', function () {
     return view('oncology_division');
 });
 
-Route::get('/ophthalmology_division', function () {
-    return view('ophthalmology_division');
+Route::get('/ophthalmoscope', function () {
+    return view('ophthalmoscope');
 });
 
 Route::get('/surgery_division', function () {
@@ -535,8 +535,8 @@ Route::get('/mediled_1_examination', function () {
     return view('mediled_1_examination');
 });
 
-Route::get('/hyper_light_disinfection', function () {
-    return view('hyper_light_disinfection');
+Route::get('/disinfection_robot', function () {
+    return view('disinfection_robot');
 });
 
 Route::get('/laparoscopy_detail', function () {

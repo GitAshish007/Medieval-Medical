@@ -27,72 +27,109 @@
 {{--Home navigation--}}
 <x-navigation />
 
-<form method="post" action="https://newup.sigmaitsoftwares.com/medieval/Vision_Mission.aspx" id="form1">
+<form method="post" action="https://newup.sigmaitsoftwares.com/medieval/Invasive-bronchoscopy-treatment.aspx"
+      id="form1">
     <div class="aspNetHidden">
         <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE"
-               value="/wEPDwUKMTY1NDU2MTA1MmRkSSF4R45x5f/nA5STja2jrU6/yGThffqCjdtwqU/5pnQ="/>
+               value="/wEPDwUKMTY1NDU2MTA1MmRkLxWDDVWVUM2fdLo9njxn20X5E2/8a3gIKEM93/iQM/M="/>
     </div>
 
     <div class="aspNetHidden">
 
-        <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7F1906F0"/>
+        <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F564B1B0"/>
     </div>
 
     <div>
 
-        <section class="section position-relative" style="background-image: url(image/image-1920x900-7.jpg);">
-            <div class="r-container">
-                <div class="image-overlay"></div>
-                <div class="position-relative" style="z-index: 2;">
-                    <h1 class="font-1 fw-bold text-white">Vision & Mission</h1>
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item fw-bold"><a href="Default.html">Home</a></li>
-                            <li class=" fw-bold text-white mx-1"><a>/ </a></li>
-                            <li class="breadcrumbitem fw-bold active"> Vision & Mission</li>
-                        </ol>
-                    </nav>
-                </div>
-            </div>
-        </section>
+
         <section class="section">
             <div class="r-container">
-                <div class="row row-cols-1 row-cols-lg-2">
-                    <div class="col mb-3 pe-lg-3 position-relative">
-                        <div class="overlay right"></div>
-                        <div class="position-relative pe-5 mega-hover">
-                            <img src="image/mission.jpg" alt="" class="img-fluid" style="z-index: -2;">
-                            <div class="position-absolute bottom-0 start-0 ms-4 mb-4">
+                <div class="d-flex flex-column gap-3">
+                    <div class="row row-cols-1 row-cols-lg-2 text-lg-start text-center">
+                        <div class="col col-lg-12">
+                            <div class="d-flex flex-column">
+                                <h6 class="accent-color font-2 ">Company : Broncus</h6>
+                                <h3 class="text-black font-1 lh-1 fw-semibold">Invasive Bronchoscopy Treatment</h3>
                             </div>
                         </div>
+
                     </div>
-                    <div class="col mb-3">
-                        <div class="d-flex flex-column gap-3 p-3">
-                            <h3 class="text-black font-1 lh-1 fw-semibold">Vision
-                            </h3>
-                            <p><b>"Working together for a healthier world. "</b></p>
-                            <p class="text-gray">
-                                At Medieval Medical India, our vision is to continue driving innovation in the
-                                healthcare equipment industry while expanding our global partnerships. We are dedicated
-                                to enhancing healthcare standards across India and beyond, ensuring that our solutions
-                                meet the highest standards of quality and reliability
-                            </p>
+                    <div class="row row-cols-1 row-cols-lg-3 text-center">
+
+                        <div class="col mb-3">
+                            <div class="card p-3 with-border-bottom border-0 shadow rounded-3">
+                                <img src="image/InterVapor.png" class="card-img-top rounded-3" alt="...">
+                                <div class="card-body ">
+                                    <h5 class="font-1 fw-bold">InterVapor</h5>
+
+
+                                    <p>&nbsp;</p>
+                                    <div class="d-flex justify-content-center">
+
+                                        <a type="button" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"
+                                           class="post-button font-2 d-flex flex-row align-items-center gap-2">Enquire
+                                            Now</a>
+
+                                        <a type="button" href="InterVapor.html"
+                                           class=" post-button font-2 d-flex flex-row align-items-center gap-2">Know
+                                            More</a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="d-flex flex-column gap-3 p-3">
-                            <h3 class="text-black font-1 lh-1 fw-semibold">Mission
-                            </h3>
-                            <p><b>"Redefining Healthcare through Innovation and Growth"</b></p>
-                            <p class="text-gray">
-                                We are committed to delivering cutting-edge solutions that meet the diverse needs of the
-                                healthcare sector, ensuring superior performance and reliability. Our mission drives us
-                                to continually expand our reach, advance our manufacturing capabilities, and offer
-                                exclusive products that improve patient care and contribute to a healthier future.
-                            </p>
+
+
+                        <div class="col mb-3">
+                            <div class="card p-3 with-border-bottom border-0 shadow rounded-3">
+                                <img src="image/Zhiheng-RF2.png" class="card-img-top rounded-3" alt="...">
+                                <div class="card-body ">
+                                    <h5 class="font-1 fw-bold">Zhiheng (RF2)</h5>
+
+
+                                    <p>&nbsp;</p>
+                                    <div class="d-flex justify-content-center">
+
+                                        <a type="button" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"
+                                           class="post-button font-2 d-flex flex-row align-items-center gap-2">Enquire
+                                            Now</a>
+
+                                        <a type="button" href="Zhiheng-RF2.html"
+                                           class=" post-button font-2 d-flex flex-row align-items-center gap-2">Know
+                                            More</a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
+
+
+                        <div class="col mb-3">
+                            <div class="card p-3 with-border-bottom border-0 shadow rounded-3">
+                                <img src="image/H-Marker.png" class="card-img-top rounded-3" alt="...">
+                                <div class="card-body ">
+                                    <h5 class="font-1 fw-bold">H-Marker</h5>
+
+
+                                    <p>&nbsp;</p>
+                                    <div class="d-flex justify-content-center">
+
+                                        <a type="button" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"
+                                           class="post-button font-2 d-flex flex-row align-items-center gap-2">Enquire
+                                            Now</a>
+
+                                        <a type="button" href="H-Marker.html"
+                                           class=" post-button font-2 d-flex flex-row align-items-center gap-2">Know
+                                            More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
             </div>
         </section>
+
 
     </div>
 </form>
@@ -492,5 +529,5 @@
 
 </body>
 
-<!-- Mirrored from newup.sigmaitsoftwares.com/medieval/Vision_Mission.aspx by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Nov 2024 17:01:37 GMT -->
+<!-- Mirrored from newup.sigmaitsoftwares.com/medieval/Invasive-bronchoscopy-treatment.aspx by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Nov 2024 17:02:21 GMT -->
 </html>
